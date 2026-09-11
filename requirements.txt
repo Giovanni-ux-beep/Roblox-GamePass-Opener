@@ -1,0 +1,2 @@
+# No external packages are required.
+# Tkinter, urllib.parse and webbrowser are from Python's standard library.
